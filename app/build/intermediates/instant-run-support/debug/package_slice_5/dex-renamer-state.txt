@@ -1,0 +1,4 @@
+#Thu Nov 16 04:42:48 WIB 2017
+base.0=/media/adam/adamnain/AndroidStudioProjects/SpeedMo/app/build/intermediates/transforms/dexMerger/debug/6
+renamed.0=classes.dex
+file.0=/media/adam/adamnain/AndroidStudioProjects/SpeedMo/app/build/intermediates/transforms/dexMerger/debug/6/classes.dex
